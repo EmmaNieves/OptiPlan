@@ -1,3 +1,4 @@
+#librerías necesarias
 import os
 
 class Config:
